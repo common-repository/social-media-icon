@@ -1,0 +1,234 @@
+
+.btn-fb {
+    background-color: #3B5998;
+}
+.btn-fb:focus, .btn-fb:hover {
+    background-color: #4264aa;
+}
+.btn-gplus {
+    background-color: #DD4B39;
+}
+.btn-gplus:focus, .btn-gplus:hover {
+    background-color: #e15f4f;
+}
+.btn-tw {
+    background-color: #55ACEE;
+}
+.btn-tw:focus, .btn-tw:hover {
+    background-color: #6cb7f0;
+}
+.btn-li {
+    background-color: #0082CA;
+}
+.btn-li:focus, .btn-li:hover {
+    background-color: #0092e4;
+}
+.yt-bg {
+    background-color: #CD201F;
+}
+.yt-bg:focus, .yt-bg:hover {
+    background-color: #de2827;
+}
+.ins-bg {
+    background-color: #3F729B;
+}
+.ins-bg:focus, .ins-bg:hover {
+    background-color: #467fad;
+}
+.btn-pin {
+    background-color: #C61118;
+}
+.btn-pin:focus, .btn-pin:hover {
+    background-color: #dd131b;
+}
+.btn-ins {
+    background-color: #3F729B;
+}
+.btn-ins:focus, .btn-ins:hover {
+    background-color: #467fad;
+}
+
+.btn-vimeo {
+    background-color: #67aaba;
+}
+.btn-vimeo:focus, .btn-vimeo:hover {
+    background-color: #94B4BC;
+}
+
+.btn-skype {
+    background-color: #13bfff;
+}
+.btn-skype:focus, .btn-skype:hover {
+    background-color: #61CEF5;
+}
+
+.btn-tumblr {
+    background-color: #2d4762;
+}
+.btn-tumblr:focus, .btn-tumblr:hover {
+    background-color: #2D5987;
+}
+.btn-yt {
+    background-color: #CD201F;
+}
+.btn-yt:focus, .btn-yt:hover {
+    background-color: #de2827;
+}
+.btn-vk {
+    background-color: #4C75A3;
+}
+.btn-vk:focus, .btn-vk:hover {
+    background-color: #5882b1;
+}
+.btn-git {
+    background-color: #4183C4;
+}
+.btn-git:focus, .btn-git:hover {
+    background-color: #5490ca;
+}
+.btn-comm {
+    background-color: #30CFC0;
+}
+.btn-comm:focus, .btn-comm:hover {
+    background-color: #45d4c6;
+}
+.btn-email {
+    background-color: #4B515D;
+}
+.btn-email:focus, .btn-email:hover {
+    background-color: #565d6b;
+}
+.btn-dribbble {
+    background-color: #C32361;
+}
+.btn-dribbble:focus, .btn-dribbble:hover {
+    background-color: #d8276c;
+}
+
+.btn-flickr {
+    background-color: #ff1981;
+}
+.btn-flickr:focus, .btn-flickr:hover {
+    background-color: #F7569F;
+}
+
+.btn-dropbox {
+    background-color: #017ee5;
+}
+.btn-dropbox:focus, .btn-dropbox:hover {
+    background-color: #55A4E5;
+}
+
+.btn-xing {
+    background-color: #016467;
+}
+.btn-xing:focus, .btn-xing:hover {
+    background-color: #039297;
+}
+
+.btn-tencent-weibo {
+    background-color: #20b8e5;
+}
+.btn-tencent-weibo:focus, .btn-tencent-weibo:hover {
+    background-color: #6AD0EF;
+}
+
+
+
+
+
+.btn-so {
+    background-color: #f69c55;
+}
+.btn-so:focus, .btn-so:hover {
+    background-color: #f7aa6d;
+}
+.btn-slack {
+    background-color: #56b68b;
+}
+.btn-slack:focus, .btn-slack:hover {
+    background-color: #68be97;
+}
+.icons-sm {
+    padding: .5rem;
+    margin: .5rem;
+    font-size: 1.5rem;
+}
+.fb-ic {
+    color: #3B5998!important;
+}
+.fb-ic:focus, .fb-ic:hover {
+    color: #3B5998;
+}
+.gplus-ic {
+    color: #DD4B39!important;
+}
+.gplus-ic:focus, .gplus-ic:hover {
+    color: #DD4B39;
+}
+.tw-ic {
+    color: #55ACEE!important;
+}
+.tw-ic:focus, .tw-ic:hover {
+    color: #55ACEE;
+}
+.li-ic {
+    color: #0082CA!important;
+}
+.li-ic:focus, .li-ic:hover {
+    color: #0082CA;
+}
+.yt-ic {
+    color: #CD201F!important;
+}
+.yt-ic:focus, .yt-ic:hover {
+    color: #CD201F;
+}
+.dribbble-ic {
+    color: #C32361!important;
+}
+.dribbble-ic:focus, .dribbble-ic:hover {
+    color: #C32361;
+}
+.ins-ic {
+    color: #3F729B!important;
+}
+.ins-ic:focus, .ins-ic:hover {
+    color: #3F729B;
+}
+.pin-ic {
+    color: #C61118!important;
+}
+.pin-ic:focus, .pin-ic:hover {
+    color: #C61118;
+}
+.vk-ic {
+    color: #4C75A3!important;
+}
+.vk-ic:focus, .vk-ic:hover {
+    color: #4C75A3;
+}
+.git-ic {
+    color: #4183C4!important;
+}
+.git-ic:focus, .git-ic:hover {
+    color: #4183C4;
+}
+.email-ic {
+    color: #4B515D!important;
+}
+.email-ic:focus, .email-ic:hover {
+    color: #4B515D;
+}
+.comm-ic {
+    color: #30CFC0!important;
+}
+.comm-ic:focus, .comm-ic:hover {
+    color: #30CFC0;
+}
+.drib-ic {
+    color: #C32361!important;
+}
+.drib-ic:focus, .drib-ic:hover {
+    color: #C32361;
+}
